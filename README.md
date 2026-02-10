@@ -14,8 +14,3 @@ A beginner-friendly tutorial on Genome-Wide Association Studies (GWAS) that demo
 - The difference between unadjusted and PC-adjusted GWAS results
 
 **Run in Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshiji-lab/HGEN670_GWAS_tutorial_2026/blob/main/toy_gwas_colab.ipynb)
-
-### Other Tutorials
-
-- `sgkit_gwas_colab_classroom.ipynb` - GWAS tutorial using sgkit
-- `toy_mr_colab.ipynb` - Mendelian Randomization tutorial
